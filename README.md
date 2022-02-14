@@ -9,7 +9,7 @@ methods, model validation, various model selection techniques, and prediction
 error tests
 - Visualized data to draw conclusions and relationships
 
-![](https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/Residuals%20vs%20Fitted.jpg)
+<img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/Residuals%20vs%20Fitted.jpg" width="550" height="400">
 
 # [Project 2: Coffee Consumption and Sudoku Puzzles](https://github.com/hb-racheloh/coffee_consumption_and_sudoku_puzzles)
 
@@ -18,4 +18,4 @@ coffee consumption and the ability to solve sudoku puzzles
 - Performed data analysis and data visualization, and successfully found the
 interaction effects between the selected variables by using a linear model
 
-![](https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/Half%20Normal%20Plot.jpg)
+<img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/Half%20Normal%20Plot.jpg" width="600" height="400">
