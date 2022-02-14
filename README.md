@@ -9,7 +9,7 @@ methods, model validation, various model selection techniques, and prediction
 error tests
 - Visualized data to draw conclusions and relationships
 
-<img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/images/residuals_fitted.jpg" width="550" height="400">
+<img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/images/residuals_fitted.jpg" width="1000" height="1000">
 
 # [Project 2: Coffee Consumption and Sudoku Puzzles](https://github.com/hb-racheloh/coffee_consumption_and_sudoku_puzzles)
 
