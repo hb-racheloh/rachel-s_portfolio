@@ -18,4 +18,4 @@ coffee consumption and the ability to solve sudoku puzzles
 - Performed data analysis and data visualization, and successfully found the
 interaction effects between the selected variables by using a linear model
 
-<img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/images/interaction_effect.jpg" width="300" height="200"> <img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/images/half_normal_plot.jpg" width="300" height="200">
+<img src="https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/images/interaction_effect.jpg" width="300" height="200"> <img src="images/half_normal_plot.jpg" width="300" height="200">
