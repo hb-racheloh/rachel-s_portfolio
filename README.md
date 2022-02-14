@@ -17,3 +17,5 @@ error tests
 coffee consumption and the ability to solve sudoku puzzles
 - Performed data analysis and data visualization, and successfully found the
 interaction effects between the selected variables by using a linear model
+
+![](https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/Half%20Normal%20Plot.jpg)
