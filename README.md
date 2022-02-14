@@ -10,3 +10,8 @@ error tests
 - Visualized data to draw conclusions and relationships
 
 # [Project 2: Coffee Consumption and Sudoku Puzzles](https://github.com/hb-racheloh/coffee_consumption_and_sudoku_puzzles)
+
+- Conducted a homemade factorial experiment to study the relationship between
+coffee consumption and the ability to solve sudoku puzzles
+- Performed data analysis and data visualization, and successfully found the
+interaction effects between the selected variables by using a linear model
