@@ -9,6 +9,8 @@ methods, model validation, various model selection techniques, and prediction
 error tests
 - Visualized data to draw conclusions and relationships
 
+![](https://github.com/hb-racheloh/rachel-s_portfolio/blob/main/Residuals%20vs%20Fitted.jpg)
+
 # [Project 2: Coffee Consumption and Sudoku Puzzles](https://github.com/hb-racheloh/coffee_consumption_and_sudoku_puzzles)
 
 - Conducted a homemade factorial experiment to study the relationship between
